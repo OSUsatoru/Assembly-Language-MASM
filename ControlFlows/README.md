@@ -27,7 +27,6 @@ Write a program to calculate Fibonacci numbers.
 5) Recursive solutions are not acceptable for this assignment. This one is about iteration.
 6) The upper limit should be defined and used as a constant.
 7) The usual requirements regarding documentation, readability, user-friendliness, etc., apply.
-8) Turn in your submission to Canvas by the due date.
 
 
 ## Example execution (user input is in italics):

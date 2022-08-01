@@ -20,4 +20,3 @@ Write and test a MASM program to perform the following tasks:
 2. The results of calculations must be stored in named variables before being displayed.
 3. The program must be fully documented.  This includes a complete header block for identification,
 description, etc., and a comment outline to explain each section of code.
-4. Turn in your submission to Canvas by the due date.
