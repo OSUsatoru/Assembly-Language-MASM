@@ -1,3 +1,3 @@
 ﻿  Assembling Source.asm...
 C:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
-  Procedures.vcxproj -> C:\Users\satoru\source\repos\Procedures\Debug\Procedures.exe
+  Procedures.vcxproj -> C:\cs271\Assembly-Language-MASM\Procedures\Debug\Procedures.exe

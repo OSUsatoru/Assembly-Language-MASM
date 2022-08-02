@@ -21,7 +21,6 @@ following procedures and sub-procedures :
 message should be displayed and the user should be prompted to re-enter the number of
 composites.
 7) The usual requirements regarding documentation, readability, user-friendliness, etc., apply.
-8) Turn in your submission to Canvas by the due date. 
 
 Optional Clallenges: !I did every thing!
 /************************************************************************************************
