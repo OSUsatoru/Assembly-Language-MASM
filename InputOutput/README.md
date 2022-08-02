@@ -20,3 +20,22 @@ Write and test a MASM program to perform the following tasks:
 2. The results of calculations must be stored in named variables before being displayed.
 3. The program must be fully documented.  This includes a complete header block for identification,
 description, etc., and a comment outline to explain each section of code.
+
+## Example execution (user input is in italics):
+```
+Elementary Arithmetic
+by Wile E. Coyote
+
+Enter 2 numbers, and I'll show you the sum, difference,
+product, quotient, and remainder.
+
+First number: 37
+Second number: 5
+
+37 + 5 = 42
+37 - 5 = 32
+37 x 5 = 185
+37 ÷ 5 = 7 remainder 2
+
+Impressed?  Bye!
+ ```
